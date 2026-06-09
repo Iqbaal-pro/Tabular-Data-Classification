@@ -28,7 +28,7 @@ Input Layer  →  Linear(10, 10)  →  ReLU  →  Linear(10, 1)  →  Sigmoid
 
 ```
 ├── First_PyTorch_Project.ipynb   # Main notebook
-├── riceClassification.csv        # Dataset (not included, see below)
+├── riceClassification.csv        # Dataset ( Not Included)
 └── README.md
 ```
 
